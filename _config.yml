@@ -1,0 +1,10 @@
+title: Algorismi
+description: Algorismi developer
+theme: jekyll-theme-architect
+google_analytics: [UA-108374030-1]
+url: 'https://incyi.github.io/algorismi'
+github_username: incyi
+github: [metadata]
+show_downloads: false
+plugins:
+  - jekyll-sitemap
