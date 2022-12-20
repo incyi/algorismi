@@ -1,4 +1,4 @@
-# algorismi
+# algorismi.ml
 Algorismi website
 
 Tutorial followed:  
