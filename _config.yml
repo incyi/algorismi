@@ -1,0 +1,10 @@
+title: algorismi's homepage
+description: Some personal projects
+theme: jekyll-theme-architect
+google_analytics: 
+url: 'http://algorismi.nl'
+github_username: incyi
+github: [metadata]
+show_downloads: false
+plugins:
+  - jekyll-sitemap
