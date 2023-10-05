@@ -1,9 +1,15 @@
 ---
 layout: default
+title: Another page
 ---
+
+<a href="index">Home</a> -
+<a href="example-page">Template</a>
+
+# Cyber Security
 
 ## Welcome to another page
 
 _yay_
 
-[back](./)
+[back](./example-page)

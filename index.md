@@ -3,4 +3,7 @@ layout: default
 title: Home
 ---
 
-##Algorismi - Cyber Security
+<a href="index">Home</a> -
+<a href="example-page">Template</a>
+
+# Cyber Security

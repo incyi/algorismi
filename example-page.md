@@ -1,6 +1,12 @@
 ---
 layout: default
+title: Example page
 ---
+
+<a href="index">Home</a> -
+<a href="example-page">Template</a>
+
+# Cyber Security
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
