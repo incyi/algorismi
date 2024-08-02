@@ -1,11 +1,8 @@
-<html>
-<body>
+---
+layout: default
+title: Home
+---
 
 <a href="index">Home</a> -
 <a href="example-page">Template</a>
 <a href="another-page">Another page</a>
-<a href="contact">Contact</a>
-
-Cyber Security
-
-</html>

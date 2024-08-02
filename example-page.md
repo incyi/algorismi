@@ -1,5 +1,7 @@
-<html>
-<body>
+---
+layout: default
+title: Template
+---
 
 
 <a href="index">Home</a> -
@@ -126,6 +128,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
-</body>
-</html>
