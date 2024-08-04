@@ -17,10 +17,10 @@ Name:
     <input type="text" name="name" required>  
 
 E-mail:
-    <input type="email" name="email" required>. 
+    <input type="email" name="email" required>  
 
 Message:
-    <textarea name="message" required></textarea>  
+    <textarea name="message" required>Hi Inanç, </textarea>  
 
     <button type="submit">Submit Form</button>
 </form>
