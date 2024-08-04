@@ -4,14 +4,13 @@ title: Template
 ---
 
 <a href="index">Home</a> -
+<a href="about">About me</a> -
 <a href="legend">The Legend</a> -
-<a href="example-page">Template</a>
+<a href="contact">Contact</a>
 
 # Cyber Security
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -105,7 +104,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://docs.github.com/assets/images/help/repository/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.

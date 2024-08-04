@@ -4,12 +4,13 @@ title: The Legend
 ---
 
 <a href="index">Home</a> -
+<a href="about">About me</a> -
 <a href="legend">The Legend</a> -
-<a href="example-page">Template</a>
-
-![Picture of Muhammad ibn Musa al-Khwarizmi](img/Al-Khwarizmi.jpg)
+<a href="contact">Contact</a>
 
 # Muhammad ibn Musa al-Khwarizmi
+
+![Picture of Muhammad ibn Musa al-Khwarizmi](assets/images/Al-Khwarizmi.jpg)
 
 Al-Khwārizmī (born c. 780 —died c. 850) was a Muslim mathematician and astronomer whose major works introduced Hindu-Arabic numerals and the concepts of algebra into European mathematics. Latinized versions of his name and of his most famous book title live on in the terms algorithm and algebra.
 
