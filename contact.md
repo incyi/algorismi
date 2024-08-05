@@ -13,6 +13,7 @@ title: Contact
 ![Me](assets/images/inanc.jpg)
 
 [<img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="60">](https://www.linkedin.com/in/yigitinanc)
+[<img class="image" src="/assets/images/GitHub-Mark-120px-plus.png" width="60">](https://github.com/incyi)
 
 <form action="https://api.web3forms.com/submit" method="POST">
     <!-- Configure secret access key -->
