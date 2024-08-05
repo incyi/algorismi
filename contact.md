@@ -22,7 +22,7 @@ title: Contact
     E-mail:
     <input type="email" name="email" required>
     Message:
-    <textarea name="message" required>Hi Inanç, 
+    <textarea name="message" required>Hi İnanç, 
     </textarea>  
     <button type="submit">Submit Form</button>
 </form>
