@@ -19,7 +19,7 @@ Before transitioning to CyberSecurity, I spent over 6 months completing the foll
 *   Introduction to Cybersecurity by Cisco
 *   Network Defense Essentials by EC-Council
 *   Digital Forensics Essentials by EC-Council
-*   Ethical Hacking Essentials
+*   Ethical Hacking Essentials by EC-Council
 *   Security+ by Comptia
 
 Currently, I am pursuing the CISSP certification.
