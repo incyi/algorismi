@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <a href="index">Home</a> -
-<a href="about">About me</a> -
+<a href="about">About</a> -
 <a href="legend">The Legend</a> -
 <a href="contact">Contact</a>
 
