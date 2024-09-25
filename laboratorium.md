@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Homelab
 ---
 
 <a href="index">Home</a> -
@@ -9,7 +9,8 @@ title: About
 <a href="legend">The Legend</a> -
 <a href="contact">Contact</a>
 
-# About
-I always wanted to have an about page with some info. The info will follow later.
+# Home Laboratorium
 
-[home](index)
+I have a Synology NAS
+
+Managed switch from Netgear.
