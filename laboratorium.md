@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homelab
+title: HomeLab
 ---
 
 <a href="index">Home</a> -
