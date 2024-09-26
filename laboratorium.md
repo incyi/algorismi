@@ -55,5 +55,5 @@ Name | switch01 |
 Make | Netgear |
 Model | Prosafe GS105E v2 |
 Power usage | * |
-Power adapter | * Watt * Volt |
+Power adapter | Netgear AC-DC Adapter 12V 1.0A |
 --- | --- | ---
