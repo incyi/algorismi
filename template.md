@@ -204,7 +204,7 @@ $$
 
 Check out this code snippet:
 
-<script src="https://gist.github.com/username/gistid.js"></script>
+<script src="https://gist.github.com/incyi/23aeb4b1fc25e625ff4163441902238d"></script>
 
 # Emoji Support
 
