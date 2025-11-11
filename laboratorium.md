@@ -38,14 +38,27 @@ Type | Spec | Link
 --- | --- | ---
 Name | pivpn01 |
 Make | Raspberry Pi |
-Model | B+ |
-Case | Plastic |
-Ramm | 512MB |
+Model | 5 |
+Case | Argon NEO 5 BRED |
+Ramm | 8GB |
 Storage | 16GB Micro-SD |
 Operating System | Raspbian |
+Power | Argon PWR GaN USB-C PD Power Supply 27 Watts |
 VPN Server | WireGuard |
 --- | --- | ---
 
+## Raspberry Pi groundstation
+
+Type | Spec | Link
+--- | --- | ---
+Name | pivpn01 |
+Make | Raspberry Pi |
+Model | 4 |
+Case | Plastic |
+Ramm | 2GB |
+Storage | 16GB Micro-SD |
+Operating System | Raspbian |
+--- | --- | ---
 
 ## Managed switch
 
