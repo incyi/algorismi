@@ -25,5 +25,5 @@ Before transitioning to Cybersecurity, I completed several courses to build my k
 *   Digital Forensics Essentials by EC-Council
 *   Ethical Hacking Essentials by EC-Council
 *   Security+ by CompTIA
+*   CISSP
 
-I am currently pursuing the CISSP certification to further advance my expertise in the field.
