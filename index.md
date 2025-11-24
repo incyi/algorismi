@@ -15,7 +15,9 @@ title: Home
 
 Welcome to my professional portfolio. I am İnanç Yiğit, a Cybersecurity Engineer.
 
-Until 2024, I worked as an Embedded Software Engineer, gaining experience with both hardware and software across various domains.
+Between 2009 and 2012, I completed my Bachelor’s degree in Computer Science at the Amsterdam University of Applied Sciences. Specializing in Embedded Systems and minoring in Forensic Intelligence and Security.
+
+From 2013 until 2024, I worked as an Embedded Software Engineer, gaining experience with both hardware and software across various domains.
 Including drones, barcode scanners, smart price labels, TVs, financial software, revolving doors, barriers, self-driving tractors, humanoid robots, smart room sensors, blood measurement instruments, milking robots, smart sensor data collectors, boats, campers, power electronics and batteries.
 
 Before transitioning to Cybersecurity, I completed several courses to build my knowledge and skills, including:
@@ -27,3 +29,4 @@ Before transitioning to Cybersecurity, I completed several courses to build my k
 *   Security+ by CompTIA
 *   CISSP
 
+<a href="https://www.credly.com/users/inanc-yigit/badges">Credly badge wallet</a>
