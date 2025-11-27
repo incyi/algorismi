@@ -4,9 +4,9 @@ title: Home
 ---
 
 <a href="index">Home</a> -
+<a href="legend">The Legend</a> -
 <a href="laboratorium">Lab</a> -
 <a href="about">About</a> -
-<a href="legend">The Legend</a> -
 <a href="contact">Contact</a>
 
 # Homepage of Algorismi

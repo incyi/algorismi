@@ -4,11 +4,10 @@ title: The Legend
 ---
 
 <a href="index">Home</a> -
+<a href="legend">The Legend</a> -
 <a href="laboratorium">Lab</a> -
 <a href="about">About</a> -
-<a href="legend">The Legend</a> -
 <a href="contact">Contact</a>
-
 
 [Muhammad ibn Musa al-Kwarizmi](#muhammad-ibn-musa-al-khwarizmi)  
 [Hezârfen Ahmed Çelebi](#hezârfen-ahmed-çelebi)   
