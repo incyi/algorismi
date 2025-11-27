@@ -9,6 +9,10 @@ title: The Legend
 <a href="legend">The Legend</a> -
 <a href="contact">Contact</a>
 
+
+[Muhammad ibn Musa al-Kwarizmi](#muhammad-ibn-musa-al-khwarizmi)  
+[Hezârfen Ahmed Çelebi](#hezârfen-ahmed-çelebi)   
+
 # Muhammad ibn Musa al-Khwarizmi
 
 ![Picture of Muhammad ibn Musa al-Khwarizmi](assets/images/Al-Khwarizmi.jpg)
@@ -28,3 +32,16 @@ Finally, al-Khwārizmī also compiled a set of astronomical tables (Zīj), based
 
 <a href="https://www.britannica.com/biography/al-Khwarizmi">Copied from Britannica</a>
 
+
+# Hezârfen Ahmed Çelebi
+
+![Picture of Hezârfen Ahmed Çelebi ](assets/images/Hazarfen-Ahmet-Celebi.jpg)
+
+The 17th century writings of Evliyâ Çelebi relate this story of Hezârfen Ahmed Çelebi, circa 1630–1632:
+
+First, he practiced by flying over the pulpit of Okmeydanı eight or nine times with eagle wings, using the force of the wind. Then, as Sultan Murad Khan (Murad IV) was watching from the Sinan Pasha mansion at Sarayburnu, he flew from the very top of the Galata Tower (in contemporary Karaköy) and landed in the Doğancılar Square in Üsküdar, with the help of the south-west wind. Murad Khan then rewarded him for his feat with a sack of gold coins, saying: "This man is uncanny: he is capable of doing anything he wishes. It is not right to surround oneself with such people". True to his word, he then exiled Ahmed to Algeria, where the scientist remained until his death.
+
+— Evliyâ Çelebi
+
+<a href="https://islamansiklopedisi.org.tr/hezarfen-ahmed-celebi">TDV Islam Ansiklopedesi - HEZARFEN AHMED ÇELEBİ</a>  
+<a href="https://en.wikipedia.org/wiki/Hez%C3%A2rfen_Ahmed_%C3%87elebi">Copied from Wikipedia - Hezârfen Ahmed Çelebi</a>  
