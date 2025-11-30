@@ -13,7 +13,10 @@ title: Home
 
 ![Logo](assets/images/logo.png)
 
-Welcome to my professional portfolio. I am İnanç Yiğit, a Cybersecurity Engineer.
+Welcome to my professional portfolio.  
+
+## whoami  
+I am İnanç Yiğit, a Cybersecurity Engineer.
 
 Between 2009 and 2012, I completed my Bachelor’s degree in Computer Science at the Amsterdam University of Applied Sciences. Specializing in Embedded Systems and minoring in Forensic Intelligence and Security.
 
