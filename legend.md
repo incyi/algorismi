@@ -11,6 +11,8 @@ title: The Legend
 
 [Muhammad ibn Musa al-Kwarizmi](#muhammad-ibn-musa-al-khwarizmi)  
 [Hezârfen Ahmed Çelebi](#hezârfen-ahmed-çelebi)   
+[Ismail al-Jazari](#ismail-al-jazari)
+
 
 # Muhammad ibn Musa al-Khwarizmi
 
@@ -44,3 +46,6 @@ First, he practiced by flying over the pulpit of Okmeydanı eight or nine times 
 
 <a href="https://islamansiklopedisi.org.tr/hezarfen-ahmed-celebi">TDV Islam Ansiklopedesi - HEZARFEN AHMED ÇELEBİ</a>  
 <a href="https://en.wikipedia.org/wiki/Hez%C3%A2rfen_Ahmed_%C3%87elebi">Copied from Wikipedia - Hezârfen Ahmed Çelebi</a>  
+
+
+# Ismail al-Jazari
