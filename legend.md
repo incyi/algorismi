@@ -49,3 +49,8 @@ First, he practiced by flying over the pulpit of Okmeydanı eight or nine times 
 
 
 # Ismail al-Jazari
+
+Badīʿ az-Zaman Abu l-ʿIzz ibn Ismāʿīl ibn ar-Razāz al-Jazarī (1136–1206, Arabic: بَدِيعُ الزَّمانِ أَبُو العِزِّ بْنُ إسْماعِيلَ بْنِ الرَّزَّازِ الجَزَرِيّ, [ældʒæzæriː]) was a Muslim polymath: a scholar, inventor, mechanical engineer, artisan and artist from the Artuqid Dynasty of Jazira in Mesopotamia. He is best known for writing The Book of Knowledge of Ingenious Mechanical Devices (Arabic: كتاب في معرفة الحيل الهندسية, romanized: Kitab fi ma'rifat al-hiyal al-handasiya, lit. 'Book in knowledge of engineering tricks', also known as Automata) in 1206, where he described 50 mechanical devices, along with instructions on how to construct them. One of his more famous inventions is the elephant clock. He has been described as the "father of robotics" and modern day engineering.
+
+<a href="https://en.wikipedia.org/wiki/Ismail_al-Jazari">copied from wikipedia - Ismail al-Jazari</a>
+
