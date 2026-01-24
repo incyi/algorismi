@@ -4,6 +4,6 @@ permalink: .well-known/security.txt
 ---
 
 # This is a security.txt file following https://securitytxt.org/ 
-Contact: mailto:inanc64+algorismi_security@gmail.com
+Contact: mailto:inanc64+algorismi-nl_2026_security@gmail.com
 Preferred-Languages: nl, en, tr
-Expires: 2025-12-31T23:00:00.000Z
+Expires: 2026-12-31T23:00:00.000Z

@@ -1,9 +1,12 @@
 title: Algorismi.nl
 description: Professional portfolio
 theme: jekyll-theme-architect
-url: 'https://algorismi.nl'
+url: "https://algorismi.nl"
 github_username: incyi
 github: [metadata]
 show_downloads: false
 plugins:
   - jekyll-sitemap
+exclude:
+  - Readme.md
+  - LICENSE
