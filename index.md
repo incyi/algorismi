@@ -32,4 +32,6 @@ Before specializing to Cybersecurity, I completed several courses to build my kn
 *   Security+ by CompTIA
 *   CISSP
 
+Since March 2025 I'm working as an OT CyberSecurity specialist at an international airport.
+
 <a href="https://www.credly.com/users/inanc-yigit/badges">Credly badge wallet</a>
