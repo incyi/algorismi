@@ -23,7 +23,7 @@ Between 2009 and 2012, I completed my Bachelor’s degree in Computer Science at
 From 2013 until 2024, I worked as an Embedded Software Engineer, gaining experience with both hardware and software across various domains.
 Including drones, barcode scanners, smart price labels, TVs, financial software, revolving doors, barriers, self-driving tractors, humanoid robots, smart room sensors, blood measurement instruments, milking robots, smart sensor data collectors, airplanes, boats, campers, power electronics and batteries.
 
-Before specializing to Cybersecurity, I completed several courses to build my knowledge and skills, including:
+During specializing to Cybersecurity, I completed several courses to build my knowledge and skills, including:
 
 *   Introduction to Cybersecurity by Cisco
 *   Network Defense Essentials by EC-Council
@@ -31,6 +31,7 @@ Before specializing to Cybersecurity, I completed several courses to build my kn
 *   Ethical Hacking Essentials by EC-Council
 *   Security+ by CompTIA
 *   CISSP
+*   OT Cybersecurity Fundamentals Training by Bureau Veritas
 
 Since March 2025 I'm working as an OT CyberSecurity specialist at an international airport.
 
