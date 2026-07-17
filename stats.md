@@ -11,6 +11,7 @@ title: stats
 
 # Some statistucs and weird stuff ⚡️
 
+Your IP address is: <span id="user-ip">Loading...</span>
 
 // Fetch IP address
 fetch('https://ipify.org')
