@@ -13,6 +13,7 @@ title: stats
 
 Your IP address is: <span id="user-ip">Loading...</span>
 
+<script>
 // Fetch IP address
 fetch('https://ipify.org')
   .then(response => response.json())
@@ -24,4 +25,4 @@ fetch('https://ipify.org')
     console.error('Error fetching IP:', error);
     document.getElementById('user-ip').textContent = "Unable to load IP";
   });
-  
+</script>
