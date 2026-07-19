@@ -15,7 +15,7 @@ Your IP address is: <span id="user-ip">Loading...</span>
 
 <script>
 // Fetch IP address
-fetch('https://ipify.org')
+fetch('https://api.ipify.org?format=json')
   .then(response => response.json())
   .then(data => {
     // Insert the IP into an HTML element with id="user-ip"
