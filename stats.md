@@ -9,7 +9,7 @@ title: stats
 <a href="about">About</a> -
 <a href="contact">Contact</a>
 
-# Some statistucs and weird stuff ⚡️
+# Some statistics and weird stuff ⚡️
 
 Your IP address is: <span id="user-ip">Loading...</span>
 
